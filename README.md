@@ -7,6 +7,6 @@ A Simple Telegram API Based Remote Keylogger
 - Add Your Telegram API Key in File
 
 ```py
-# Telegram API Key
+# Telegram Token
 TOKEN = ""
 ```
