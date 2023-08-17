@@ -1,6 +1,11 @@
 # KeyLogger
 A Simple Telegram API Based Remote Keylogger
 
+-Requirements
+```
+pip install python-telegram-bot requests pynput 
+```
+
 - How to Obtain Own API of Telegram
 [https://core.telegram.org/api/obtaining_api_id]
  
