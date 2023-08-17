@@ -14,9 +14,9 @@ A Simple Telegram API Based Remote Keylogger
 ## Installation
 ```
 sudo pip install python-telegram-bot requests pynput 
-git clone https://github.com/b14ckky/Net_Scan
-cd Net_Scan
-python Net_Scan.py -h
+git clone https://github.com/b14ckky/KeyLogger
+cd KeyLogger
+python KeyLogger.py -h
 ```
 
 - How to Obtain Own API of Telegram
@@ -27,17 +27,6 @@ python Net_Scan.py -h
 ```py
 # Telegram Token
 TOKEN = ""
-```
-
-## Usage
-```
-usage: Net_Scan.py [-h] [-t TARGET]
-
-A Simple Host Discovery Tool !!
-
-options:
-  -h, --help                  show this help message and exit
-  -t TARGET, --target TARGET  Specify target ip or ip range
 ```
 
  ### Development by
